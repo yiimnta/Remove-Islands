@@ -2,11 +2,14 @@
 Medium Google Coding - Remove Islands
 
 # Description
+
 Given a matrix n*n:
+
 1 -> black color
+
 0 -> white color
 
-Removing all black pixel that is not connected with the black-pixel in the border
+Removing all black pixels that are not connected with the black-pixel in the border
 
 # Input
 Input is a 
